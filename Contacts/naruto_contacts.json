@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Naruto Uzumaki",
+        "phone": "09120000001",
+        "email": "narutouzumaki@example.com"
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "phone": "09120000002",
+        "email": "sasukeuchiha@example.com"
+    },
+    {
+        "name": "Sakura Haruno",
+        "phone": "09120000003",
+        "email": "sakuraharuno@example.com"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "phone": "09120000004",
+        "email": "kakashihatake@example.com"
+    },
+    {
+        "name": "Shikamaru Nara",
+        "phone": "09120000005",
+        "email": "shikamarunara@example.com"
+    },
+    {
+        "name": "Choji Akimichi",
+        "phone": "09120000006",
+        "email": "chojiakimichi@example.com"
+    },
+    {
+        "name": "Ino Yamanaka",
+        "phone": "09120000007",
+        "email": "inoyamanaka@example.com"
+    },
+    {
+        "name": "Asuma Sarutobi",
+        "phone": "09120000008",
+        "email": "asumasarutobi@example.com"
+    },
+    {
+        "name": "Kiba Inuzuka",
+        "phone": "09120000009",
+        "email": "kibainuzuka@example.com"
+    },
+    {
+        "name": "Hinata Hyuga",
+        "phone": "09120000010",
+        "email": "hinatahyuga@example.com"
+    },
+    {
+        "name": "Shino Aburame",
+        "phone": "09120000011",
+        "email": "shinoaburame@example.com"
+    },
+    {
+        "name": "Kurenai Yuhi",
+        "phone": "09120000012",
+        "email": "kurenaiyuhi@example.com"
+    },
+    {
+        "name": "Rock Lee",
+        "phone": "09120000013",
+        "email": "rocklee@example.com"
+    },
+    {
+        "name": "Neji Hyuga",
+        "phone": "09120000014",
+        "email": "nejihyuga@example.com"
+    },
+    {
+        "name": "Tenten",
+        "phone": "09120000015",
+        "email": "tenten@example.com"
+    },
+    {
+        "name": "Might Guy",
+        "phone": "09120000016",
+        "email": "mightguy@example.com"
+    },
+    {
+        "name": "Hashirama Senju",
+        "phone": "09120000017",
+        "email": "hashiramasenju@example.com"
+    },
+    {
+        "name": "Tobirama Senju",
+        "phone": "09120000018",
+        "email": "tobiramasenju@example.com"
+    },
+    {
+        "name": "Hiruzen Sarutobi",
+        "phone": "09120000019",
+        "email": "hiruzensarutobi@example.com"
+    },
+    {
+        "name": "Minato Namikaze",
+        "phone": "09120000020",
+        "email": "minatonamikaze@example.com"
+    },
+    {
+        "name": "Tsunade Senju",
+        "phone": "09120000021",
+        "email": "tsunadesenju@example.com"
+    },
+    {
+        "name": "Kakashi Hatake (Hokage)",
+        "phone": "09120000022",
+        "email": "kakashihatakehokage@example.com"
+    },
+    {
+        "name": "Naruto Uzumaki (Hokage)",
+        "phone": "09120000023",
+        "email": "narutouzumakihokage@example.com"
+    },
+    {
+        "name": "Itachi Uchiha",
+        "phone": "09120000024",
+        "email": "itachiuchiha@example.com"
+    },
+    {
+        "name": "Kisame Hoshigaki",
+        "phone": "09120000025",
+        "email": "kisamehoshigaki@example.com"
+    },
+    {
+        "name": "Deidara",
+        "phone": "09120000026",
+        "email": "deidara@example.com"
+    },
+    {
+        "name": "Sasori",
+        "phone": "09120000027",
+        "email": "sasori@example.com"
+    },
+    {
+        "name": "Hidan",
+        "phone": "09120000028",
+        "email": "hidan@example.com"
+    },
+    {
+        "name": "Kakuzu",
+        "phone": "09120000029",
+        "email": "kakuzu@example.com"
+    },
+    {
+        "name": "Konan",
+        "phone": "09120000030",
+        "email": "konan@example.com"
+    },
+    {
+        "name": "Nagato (Pain)",
+        "phone": "09120000031",
+        "email": "nagatopain@example.com"
+    },
+    {
+        "name": "Tobi (Obito Uchiha)",
+        "phone": "09120000032",
+        "email": "tobiobitouchiha@example.com"
+    },
+    {
+        "name": "Gaara",
+        "phone": "09120000033",
+        "email": "gaara@example.com"
+    },
+    {
+        "name": "Kankuro",
+        "phone": "09120000034",
+        "email": "kankuro@example.com"
+    },
+    {
+        "name": "Temari",
+        "phone": "09120000035",
+        "email": "temari@example.com"
+    },
+    {
+        "name": "Jiraiya",
+        "phone": "09120000036",
+        "email": "jiraiya@example.com"
+    },
+    {
+        "name": "Orochimaru",
+        "phone": "09120000037",
+        "email": "orochimaru@example.com"
+    },
+    {
+        "name": "Kabuto Yakushi",
+        "phone": "09120000038",
+        "email": "kabutoyakushi@example.com"
+    },
+    {
+        "name": "Madara Uchiha",
+        "phone": "09120000039",
+        "email": "madarauchiha@example.com"
+    },
+    {
+        "name": "Kaguya Otsutsuki",
+        "phone": "09120000040",
+        "email": "kaguyaotsutsuki@example.com"
+    }
+]
